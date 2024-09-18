@@ -42,6 +42,7 @@ configure in the usart 2 as asynchronous mode and set the baud rate as 115200 as
 
 ## STM 32 CUBE PROGRAM :
 ``
+
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
@@ -300,6 +301,7 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
+
 ``
 
 
